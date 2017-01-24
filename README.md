@@ -2,4 +2,4 @@
 Une demo de git qui se passe bien
 
 Et maintenant on modifie depuis github
-mais aussi de mon PC 
+mais aussi de mon PC  et c'est cool
